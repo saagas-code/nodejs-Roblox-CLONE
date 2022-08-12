@@ -5,10 +5,12 @@ Parte do Back-End do Projeto [Roblox](https://b7web.com.br)
 
 ## Instalação
 **1 -** Criar arquivo .env.
-**2 -** Setar Variáveis:
-PORT
-MONGO_URL
-JWT_SECRET_KEY
+**2 -** Setar Variáveis dentro do .env:
+```sh
+$ PORT
+$ MONGO_URL
+$ JWT_SECRET_KEY
+```
 **3 -** Rodar comandos no Terminal:
 ```sh
 $ npm install
