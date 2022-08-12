@@ -1,7 +1,7 @@
-# BACK-END Roblox
+# BACK-END Roblox CLONE
 
 Projeto em NodeJS + Typescript
-Parte do Back-End do Projeto [Roblox](https://b7web.com.br)
+Parte do Back-End do Projeto [Roblox Clone]([https://b7web.com.br](https://github.com/SaagaS0/reactjs-Roblox-CLONE))
 
 ## Instalação
 **1 -** Criar arquivo .env.
@@ -16,9 +16,6 @@ $ JWT_SECRET_KEY
 $ npm install
 $ npm run start-dev
 ```
-
-## Para rodar
-
 
 ### License
 © [SaagaS](https://github.com/SaagaS0)
