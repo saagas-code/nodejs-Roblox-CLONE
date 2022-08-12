@@ -1,16 +1,22 @@
-# React ROBLOX
+# BACK-END Roblox
 
-Projeto em React + Typescript
-Criando uma cópia do site [Roblox](https://b7web.com.br)
-Treinando os conhecimentos adquiridos das aulas de react durante o curso [B7Web](https://b7web.com.br)
+Projeto em NodeJS + Typescript
+Parte do Back-End do Projeto [Roblox](https://b7web.com.br)
+
+## Instalação
+**1 -** Criar arquivo .env.
+**2 -** Setar Variáveis:
+PORT
+MONGO_URL
+JWT_SECRET_KEY
+**3 -** Rodar comandos no Terminal:
+```sh
+$ npm install
+$ npm run start-dev
+```
+
+## Para rodar
 
 
-
-### Instalação
-- `npm install`
-
-### Para rodar
-- `npm start`
-
-## License
+### License
 © [SaagaS](https://github.com/SaagaS0)
