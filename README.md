@@ -1,11 +1,10 @@
 # BACK-END Roblox CLONE
 
 Projeto em NodeJS + Typescript
-Parte do Back-End do Projeto [Roblox](https://github.com/SaagaS0/reactjs-Roblox-CLONE/)
+Parte do Back-End do Projeto [Roblox Clone](https://github.com/SaagaS0/reactjs-Roblox-CLONE/)
 
 ## Instalação
-**1 -** Criar arquivo .env.
-**2 -** Setar Variáveis dentro do .env:
+**1 -** Criar arquivo .env e setar variáveis:
 ```sh
 $ PORT
 $ MONGO_URL
